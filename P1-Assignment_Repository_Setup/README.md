@@ -17,6 +17,6 @@ After forking the repository, you will need to *enable GitHub Issues* for your n
 
 ![Enable GitHub Issues](github_issues.png)
 
-## Submit Your Forked Repo URL to Canvas
+https://github.com/zachrhein/MainStageGamingProject
 
 Once you have forked your repo and enabled GitHub Issues, submit the URL of your new repo to Canvas to complete Assignment 1.
