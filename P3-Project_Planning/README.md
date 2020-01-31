@@ -16,4 +16,4 @@ https://trello.com/b/cKP53faY/mainstage-gaming
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/zachrhein
